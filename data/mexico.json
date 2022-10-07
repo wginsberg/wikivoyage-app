@@ -186,11 +186,6 @@
             "lng": -119.5
         },
         {
-            "title": "Oregon",
-            "lat": 43.94,
-            "lng": -120.58
-        },
-        {
             "title": "Baja California (state)",
             "lat": 29.95,
             "lng": -115.1167
@@ -466,16 +461,6 @@
             "lng": -80
         },
         {
-            "title": "Caribbean",
-            "lat": 14.525556,
-            "lng": -75.818333
-        },
-        {
-            "title": "Central America",
-            "lat": 13.90208,
-            "lng": -85.23193
-        },
-        {
             "title": "Caribbean Nicaragua",
             "lat": 13.07,
             "lng": -83.88
@@ -716,16 +701,6 @@
             "lng": -118.279
         },
         {
-            "title": "Erlangen",
-            "lat": 49.591111,
-            "lng": 11.024444
-        },
-        {
-            "title": "San Carlos (Nicaragua)",
-            "lat": 11.133333333333,
-            "lng": -84.783333333333
-        },
-        {
             "title": "Esterillos",
             "lat": 9.5335,
             "lng": -84.4796
@@ -854,6 +829,11 @@
             "title": "Rivas",
             "lat": 11.4333,
             "lng": -85.8333
+        },
+        {
+            "title": "San Carlos (Nicaragua)",
+            "lat": 11.133333333333,
+            "lng": -84.783333333333
         },
         {
             "title": "Altagracia",
@@ -1094,11 +1074,6 @@
             "title": "El Naranjo",
             "lat": 17.2294,
             "lng": -90.8041
-        },
-        {
-            "title": "United States of America",
-            "lat": 45,
-            "lng": -104
         },
         {
             "title": "Oaxtepec",
@@ -1994,18 +1969,6 @@
         },
         {
             "origin": {
-                "title": "Baja California",
-                "lat": 28,
-                "lng": -113.5
-            },
-            "destination": {
-                "title": "Oregon",
-                "lat": 43.94,
-                "lng": -120.58
-            }
-        },
-        {
-            "origin": {
                 "title": "Baja California (state)",
                 "lat": 29.95,
                 "lng": -115.1167
@@ -2662,30 +2625,6 @@
                 "title": "Panama",
                 "lat": 8.7,
                 "lng": -80
-            }
-        },
-        {
-            "origin": {
-                "title": "Caribbean",
-                "lat": 14.525556,
-                "lng": -75.818333
-            },
-            "destination": {
-                "title": "Mexico",
-                "lat": 21,
-                "lng": -100
-            }
-        },
-        {
-            "origin": {
-                "title": "Caribbean",
-                "lat": 14.525556,
-                "lng": -75.818333
-            },
-            "destination": {
-                "title": "Central America",
-                "lat": 13.90208,
-                "lng": -85.23193
             }
         },
         {
@@ -3418,18 +3357,6 @@
                 "title": "Guadalupe Island",
                 "lat": 29.015,
                 "lng": -118.279
-            }
-        },
-        {
-            "origin": {
-                "title": "Erlangen",
-                "lat": 49.591111,
-                "lng": 11.024444
-            },
-            "destination": {
-                "title": "San Carlos (Nicaragua)",
-                "lat": 11.133333333333,
-                "lng": -84.783333333333
             }
         },
         {
@@ -4894,18 +4821,6 @@
                 "title": "Mexico",
                 "lat": 21,
                 "lng": -100
-            }
-        },
-        {
-            "origin": {
-                "title": "Mexico",
-                "lat": 21,
-                "lng": -100
-            },
-            "destination": {
-                "title": "United States of America",
-                "lat": 45,
-                "lng": -104
             }
         },
         {
@@ -6766,18 +6681,6 @@
                 "title": "Sonora",
                 "lat": 29.646,
                 "lng": -110.869
-            }
-        },
-        {
-            "origin": {
-                "title": "Sonora",
-                "lat": 29.646,
-                "lng": -110.869
-            },
-            "destination": {
-                "title": "United States of America",
-                "lat": 45,
-                "lng": -104
             }
         },
         {
