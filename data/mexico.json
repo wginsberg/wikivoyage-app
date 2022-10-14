@@ -1546,16 +1546,6 @@
             "lng": -81.0731
         },
         {
-            "title": "Wikivoyage:Cruising Expedition/Structure for cruising articles/Puerto Vallarta",
-            "lat": 20.61667,
-            "lng": -105.25
-        },
-        {
-            "title": "Mismaloya",
-            "lat": 20.531018,
-            "lng": -105.292625
-        },
-        {
             "title": "El Rosario",
             "lat": 30.058506,
             "lng": -115.725157
@@ -7713,54 +7703,6 @@
                 "title": "Santiago de Veraguas",
                 "lat": 8.105833,
                 "lng": -80.971111
-            }
-        },
-        {
-            "origin": {
-                "title": "Ixtapa",
-                "lat": 17.6367,
-                "lng": -101.5514
-            },
-            "destination": {
-                "title": "Wikivoyage:Cruising Expedition/Structure for cruising articles/Puerto Vallarta",
-                "lat": 20.61667,
-                "lng": -105.25
-            }
-        },
-        {
-            "origin": {
-                "title": "Mismaloya",
-                "lat": 20.531018,
-                "lng": -105.292625
-            },
-            "destination": {
-                "title": "Wikivoyage:Cruising Expedition/Structure for cruising articles/Puerto Vallarta",
-                "lat": 20.61667,
-                "lng": -105.25
-            }
-        },
-        {
-            "origin": {
-                "title": "Guadalajara",
-                "lat": 20.666667,
-                "lng": -103.35
-            },
-            "destination": {
-                "title": "Wikivoyage:Cruising Expedition/Structure for cruising articles/Puerto Vallarta",
-                "lat": 20.61667,
-                "lng": -105.25
-            }
-        },
-        {
-            "origin": {
-                "title": "Bucerias",
-                "lat": 20.75531,
-                "lng": -105.33451
-            },
-            "destination": {
-                "title": "Wikivoyage:Cruising Expedition/Structure for cruising articles/Puerto Vallarta",
-                "lat": 20.61667,
-                "lng": -105.25
             }
         },
         {
