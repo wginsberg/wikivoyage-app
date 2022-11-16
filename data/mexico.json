@@ -541,21 +541,6 @@
             "lng": -91.8333
         },
         {
-            "title": "Clipperton Island",
-            "lat": 10.3,
-            "lng": -109.2167
-        },
-        {
-            "title": "Costa Rica",
-            "lat": 9.9333,
-            "lng": -84.0833
-        },
-        {
-            "title": "Nicaragua",
-            "lat": 13,
-            "lng": -85
-        },
-        {
             "title": "Coatepec",
             "lat": 19.45528,
             "lng": -96.95861
@@ -574,6 +559,16 @@
             "title": "Lake Atitlán",
             "lat": 14.7,
             "lng": -91.2
+        },
+        {
+            "title": "Costa Rica",
+            "lat": 9.9333,
+            "lng": -84.0833
+        },
+        {
+            "title": "Nicaragua",
+            "lat": 13,
+            "lng": -85
         },
         {
             "title": "Creel",
@@ -1191,11 +1186,6 @@
             "lng": -89.9
         },
         {
-            "title": "Pitcairn Islands",
-            "lat": -25.07,
-            "lng": -130.106
-        },
-        {
             "title": "Eastern Panama",
             "lat": 8.56,
             "lng": -78.37
@@ -1519,11 +1509,6 @@
             "title": "Changuinola",
             "lat": 9.43,
             "lng": -82.52
-        },
-        {
-            "title": "Canoa",
-            "lat": -0.4631,
-            "lng": -80.4518
         },
         {
             "title": "Boca Brava",
@@ -2939,30 +2924,6 @@
                 "title": "Yucatán and the South",
                 "lat": 18.255,
                 "lng": -89.925556
-            }
-        },
-        {
-            "origin": {
-                "title": "Clipperton Island",
-                "lat": 10.3,
-                "lng": -109.2167
-            },
-            "destination": {
-                "title": "Costa Rica",
-                "lat": 9.9333,
-                "lng": -84.0833
-            }
-        },
-        {
-            "origin": {
-                "title": "Clipperton Island",
-                "lat": 10.3,
-                "lng": -109.2167
-            },
-            "destination": {
-                "title": "Nicaragua",
-                "lat": 13,
-                "lng": -85
             }
         },
         {
@@ -5451,18 +5412,6 @@
         },
         {
             "origin": {
-                "title": "Panama",
-                "lat": 8.7,
-                "lng": -80
-            },
-            "destination": {
-                "title": "Pitcairn Islands",
-                "lat": -25.07,
-                "lng": -130.106
-            }
-        },
-        {
-            "origin": {
                 "title": "Playa del Carmen",
                 "lat": 20.63333,
                 "lng": -87.08161
@@ -7655,18 +7604,6 @@
                 "title": "Isla Carenero",
                 "lat": 9.35,
                 "lng": -82.233333
-            }
-        },
-        {
-            "origin": {
-                "title": "Canoa",
-                "lat": -0.4631,
-                "lng": -80.4518
-            },
-            "destination": {
-                "title": "Las Lajas",
-                "lat": 8.25,
-                "lng": -81.8667
             }
         },
         {
